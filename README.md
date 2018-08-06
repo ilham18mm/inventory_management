@@ -1,3 +1,3 @@
 # Aplikasi penjualan
 
-nativ php. teplate bootstrap
+nativ php. template bootstrap
